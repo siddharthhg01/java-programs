@@ -76,7 +76,7 @@ class Student {
     }
 }
 
-public class Main {
+public class StudentMarks{
     public static void main(String[] args) {
         Student s1 = new Student();
         s1.getStudentDetails();
